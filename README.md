@@ -3,7 +3,7 @@
 ## <a id="如何使用ObjectFromJSON"></a>如何使用ObjectFromJSON
 * 如何使用ObjectFromJSON：
 ```objc
-				let path:NSString = NSBundle.mainBundle().pathForResource("JSONString", ofType: nil)!
+	let path:NSString = NSBundle.mainBundle().pathForResource("JSONString", ofType: nil)!
         // 加载JSONString文件中json字符串，转化为二进制数据
         let data = NSData.dataWithContentsOfMappedFile(path as String) as! NSData
         
@@ -23,4 +23,8 @@
         
         print("\(dict)");
 ```
+
+* 解析出来的数据效果：
 ![](http://a3.qpic.cn/psb?/V12PCdgi42tvjF/sLxD4ZWsvsFHZiXG9fIQthJZ6FxaIrbpCM5Ew24R6XA!/b/dFoBAAAAAAAA&ek=1&kp=1&pt=0&bo=gAJwBAAAAAABB9Y!&sce=0-12-12&rf=viewer_4)
+
+<img src="http://a3.qpic.cn/psb?/V12PCdgi42tvjF/sLxD4ZWsvsFHZiXG9fIQthJZ6FxaIrbpCM5Ew24R6XA!/b/dFoBAAAAAAAA&ek=1&kp=1&pt=0&bo=gAJwBAAAAAABB9Y!&sce=0-12-12&rf=viewer_4" width="30%" height="30%">
