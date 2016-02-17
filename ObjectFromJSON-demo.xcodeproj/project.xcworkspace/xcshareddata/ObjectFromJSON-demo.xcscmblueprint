@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C8ACEC02DD83B5CA391E19D69F292379E7CDAD8D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "314377C0A80D824D76EC58D72BA89931E6CE7BD2" : 0,
+    "C8ACEC02DD83B5CA391E19D69F292379E7CDAD8D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "223A794E-7051-4817-B5E9-E42D69B77B8B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "314377C0A80D824D76EC58D72BA89931E6CE7BD2" : "",
+    "C8ACEC02DD83B5CA391E19D69F292379E7CDAD8D" : "ObjectFromJSON-demo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ObjectFromJSON-demo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ObjectFromJSON-demo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/NK-iOS\/ObjectFromJSON.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "314377C0A80D824D76EC58D72BA89931E6CE7BD2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/NK-iOS\/ObjectFromJSON.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C8ACEC02DD83B5CA391E19D69F292379E7CDAD8D"
+    }
+  ]
+}
